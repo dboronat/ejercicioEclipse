@@ -2,6 +2,6 @@ package com.git;
 
 public class HelloWorld {
 
-	System.out.println("Hola");
+	System.out.println("Hola mundo");
 	
 }
